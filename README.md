@@ -148,9 +148,7 @@ const cervantes = {
 ## 🎧 正在收听 · Now Playing on Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://novatorem-x9n5.vercel.app/api/orchestrator" alt="Spotify Now Playing" width="400" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
