@@ -45,7 +45,7 @@ const cervantes = {
 - 🔭 正在打磨 **[Tianqi](https://github.com/CervantesHallo/Tianqi)** —— 一个用于风险用例编排、可回放审计与生产发布护栏的 TypeScript 引擎
 - 🌱 热衷于类型安全、可测试性与优雅的工程设计
 - ⚡ 座右铭：*If it isn't testable, it isn't done.*
-- 📫 联系我：见页面底部社交栏（记得替换成你自己的链接）
+- 📫 联系我：见页面底部社交栏
 
 <br clear="both" />
 
@@ -158,7 +158,7 @@ const cervantes = {
 
 <div align="center">
 
-<a href="mailto:utleysatcherws2435@gmail.com">
+<a href="mailto:cervanteshallo@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="#">
